@@ -1,6 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-
-namespace BookCart.Models
+﻿namespace BookCart.Models
 {
     public partial class BookDBContext : DbContext
     {
